@@ -1,7 +1,7 @@
 ## Installing using GitHub
 - Clone it into your dektop
 ```
-git clone https://github.com/jacesca/rpa-robotframework-examples.git
+git clone https://github.com/jacesca/ocr.git
 ```
 - Setup environment (it requires python3)
 ```
